@@ -1,4 +1,4 @@
-FROM php:7.3-fpm-alpine
+FROM php:7.4.28-fpm-alpine
 
 LABEL Organization="CTFTraining" Author="Virink <virink@outlook.com>"
 
